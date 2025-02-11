@@ -14,7 +14,7 @@ Experienced Data Analyst with a strong background in extracting and processing l
 •	Team Collaboration & Cross-functional Communication
 
 **Professional Experience**
-Data Analyst
+**Data Analyst**
 Tritek Consulting (August 2023 – Present)
 •	Utilize SQL to extract and manipulate large data sets for detailed analysis and reporting.
 •	Prepare and deliver regular management reports and KPI metrics, providing insights into business performance.
@@ -47,6 +47,9 @@ Focused on data analytics and software engineering, with strong SQL and Excel tr
 
 **Technical Skills**
 SQL : Querying, analyzing, and interpreting large datasets, Data Visualization : Tableau, Power BI, Looker, Mode, HR Metrics and People Analytics, Reporting and Dashboard Development, Advanced Excel / Google Sheets proficiency, Statistical Analysis and Trend Identification, Data Accuracy and Quality Assurance, Cross-functional Collaboration, Strong Communication and Presentation Skills, HR Processes Understanding (performance management, engagement, retention), root cause analysis, Ad Hoc Reporting, KPI, Tooling, Marketing, performance measures, financial technology, general management, large data sets, data driven, Finance, Attention to Detail, work under pressure, troubleshooting
+
+**Projects**
+
 
 **Publication**  
 Evaluation of Machine learning algorithms and SMOTE for Insider Threat Detection.
