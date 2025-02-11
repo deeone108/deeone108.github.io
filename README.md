@@ -1,81 +1,58 @@
-Education
-Bachelor’s of Science, Computer Science, Minor in Mathematics | Seattle University (Graduated Winter 2024)
-Relevant Coursework: Data Structures, Design and Analysis of Algorithms, Cloud Computing, Technical Communications and Project Management, Software Testing and Debugging
-Associate in Arts and Sciences - AAS-DTA | Bellevue College (Spring 2021)
-Enrolled as high school student through the Running Start Program
-Work Experience
-Coding with Kids
-Operations Coordinator (June 2024 – Present)
+**Professional Summary**
+Experienced Data Analyst with a strong background in extracting and processing large data sets, using SQL and Excel to drive insights and create accurate reports. Adept at maintaining data integrity and delivering clear, actionable findings under pressure. Proven decision-making abilities and a passion for innovation, seeking to contribute to the Risk and Reserving team at Policy Expert.
 
-Panthera
-Software Engineer Intern (September 2022 – June 2023)
+**Core Competencies**
+•	Advanced Excel Skills (Pivot Tables, VLOOKUP, Macros)
+•	Strong SQL Knowledge (Data Extraction & Querying)
+•	Insurance Reporting & Bordereaux Preparation
+•	KPI Metrics Development & Analysis
+•	Data Integrity & Accuracy Maintenance
+•	Management Information Reporting
+•	Root Cause Analysis & Troubleshooting
+•	Data-driven Decision Making
+•	Clear Verbal & Written Communication
+•	Team Collaboration & Cross-functional Communication
 
-Worked in a team of four as an intern software engineer for year-long Capstone project.
-Developed image processing library to optimize data for machine learning models.
-Organized weekly meetings with team Sponsor and Advisor.
-Leadership Experience
-The Brotherhood of Chi Theta Psi
-Alumni Chair (June 2024 – Present)
+**Professional Experience**
+Data Analyst
+Tritek Consulting (August 2023 – Present)
+•	Utilize SQL to extract and manipulate large data sets for detailed analysis and reporting.
+•	Prepare and deliver regular management reports and KPI metrics, providing insights into business performance.
+•	Produce and maintain accurate insurance bordereaux, detailing claim information and financial data.
+•	Support the Actuarial Team with data preparation and analysis, ensuring accuracy in financial figures.
+•	Develop ad hoc reports and provide raw data for business teams (Marketing, Operations, Finance, Pricing).
+•	Ensure the integrity of reporting and analytical tools, adhering to defined workflows and test procedures.
+•	Collaborate with cross-functional teams to troubleshoot existing tools and implement defect fixes based on root cause analysis.
+•	Communicate complex data findings clearly to stakeholders, helping to inform key business decisions.
 
-Acted as the point of contact between Alumni and the Active Brothers alongside another co-chair.
-Coordinated and Facilitated quarterly mixers and events with Alumni Brothers.
-Consistently kept 50+ Alumni Brothers informed and up-to-date on the Active House's doings.
-Secretary and Executive Board (May 2023 – May 2024)
+**Junior Data Analyst**
+Feghas Solutions (August 2021 – August 2023)
+•	Extracted data using SQL and Excel, creating reports that tracked business performance and customer trends.
+•	Assisted with the preparation of KPI reports and ad hoc analysis for senior management.
+•	Contributed to the development and maintenance of performance measurement tools for various departments.
+•	Communicated findings through clear visualizations and written summaries for management review.
 
-Wrote & distributed minutes for weekly board meetings.
-Maintained roster of 80+ active and alumni members.
-Organized and managed Brotherhood Google Drive, Google Calendar, Google Contacts, and LinkedIn.
-Led various committees with other members to produce large-scale events including a cultural show and our annual banquet.
-New Member Educator (May 2023 - March 2024)
+**Education**
+MSc in Cybersecurity
+University of Huddersfield 
+•	Specialized in data security, with extensive experience working with large datasets.
+BSc in Computer Science & Information Technology
+Bowen University 
+Focused on data analytics and software engineering, with strong SQL and Excel training.
 
-Responsible for designing and executing an 8-week educational program.
-Educated 9 new members alongside a partner during Winter Quarter.
-Led informational meetings twice a week across two campuses.
-Instructed and instilled Filipino history, morals, and values.
-Planned logistics of weekly workshops and events.
-Maintained 100% retention rate throughout the process.
-Philanthropy Chair (August 2022 – May 2023)
+**Certifications**
+•	Google IT Support (2024)
+•	CompTIA A+ (2023)
+•	Cisco Cyber Threat Management (2024)
 
-Raised awareness of our philanthropy (cardiovascular disease and strokes) through events and social media.
-Collaborated with the UW Filipinx Association for Health Careers (FAHC) to host an educational workshop.
-Organized blood drive w/ Bloodworks NW in support of cardiovascular disease awareness.
-Promoted and Educated students about Filipino culture.
-Collaborated with SU United Filipino Club (UFC) to host a cultural-based social event.
-Northwest Filipino American Student Alliance (NWFASA)
-Advisory Board Member (May 2024 – Present)
+**Technical Skills**
+SQL : Querying, analyzing, and interpreting large datasets, Data Visualization : Tableau, Power BI, Looker, Mode, HR Metrics and People Analytics, Reporting and Dashboard Development, Advanced Excel / Google Sheets proficiency, Statistical Analysis and Trend Identification, Data Accuracy and Quality Assurance, Cross-functional Collaboration, Strong Communication and Presentation Skills, HR Processes Understanding (performance management, engagement, retention), root cause analysis, Ad Hoc Reporting, KPI, Tooling, Marketing, performance measures, financial technology, general management, large data sets, data driven, Finance, Attention to Detail, work under pressure, troubleshooting
 
-Seattle University's United Filipino Club (UFC)
-Affiliate Relations Officer (May 2023 – May 2024)
+**Publication**  
+Evaluation of Machine learning algorithms and SMOTE for Insider Threat Detection.
+Awards
+Best paper award at the 5th The International Symposium on Intelligent Computing Systems ISICS 2024.
 
-Acted as the point of contact between UFC and both the Northwest Fil-Am Student Alliance (NWFASA) and Kabataan Alliance (KA).
-Attended NWFASA and KA meetings monthly and relayed information to UFC.
-Collaborated with UW Filipino American Student Association (FASA sa UW) and the Filipino American National Historical Society (FANHS National) to organize a cultural showcase and panel.
-Organized social and educational events with Filipinx student- and youth-led orgs across the PNW.
-Fundraising Chair (May 2022 – May 2023)
-
-Created fundraisers and social events to provide revenue.
-Connected with local businesses like Chipotle and Drip Tea to raise funds.
-Hosted quarterly general meetings to promote Filipino culture.
-Performer and Cultural Dancer
-
-Performed at three of UFC's annual flagship cultural event Barrio Fiesta.
-
-30th Annual Barrio Fiesta (Winter 2024)
-
-Emceed the 500+ attended event with another host.
-Performed three dances including the traditional Filipino dances Sayaw Sa Bangko and Sakuting, and a modern hip-hop dance.
-Performed as a main character in the skit.
-29th Annual Barrio Fiesta (Winter 2023)
-
-Recruited volunteers from UFC and other on- and off-campus communities as the Network and Outreach Chair.
-Emceed the 400+ attended event with another host.
-Performed two dances including the traditional Filipino dance Cariñosa and a modern hip-hop dance.
-Performed as a main character in the skit.
-28th Annual Barrio Fiesta (Spring 2022)
-
-Organized the gathering of financial and inventory donations from UFC alumni, families, and local businesses as the Donations Chair.
-Performed a modernized version of the traditional Filipino dance Tinikling.
-Skills and Hobbies
-Skills: Programming, C/C++, Java, C#, Python, Emceeing, Copywriting & Content Writing, Team Leadership
-
-Hobbies and Interests: Boxing, Filipino Culture and Issues, Mexican Culture and Issues
+**Additional Information**
+•	Strong ability to innovate and bring new ideas to enhance business processes.
+•	Passionate about data-driven decision-making and continuously improving analytical tools and reporting procedures.
